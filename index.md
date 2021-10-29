@@ -1,4 +1,4 @@
-// https://app-privacy-policy-generator.firebaseapp.com/
+# https://app-privacy-policy-generator.firebaseapp.com/
 
 **Privacy Policy**
 
