@@ -1,3 +1,5 @@
+// https://app-privacy-policy-generator.firebaseapp.com/
+
 **Privacy Policy**
 
 Maksim Rovkin built the Mutka app as a Free app. This SERVICE is provided by Maksim Rovkin at no cost and is intended for use as is.
